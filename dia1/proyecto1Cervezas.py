@@ -1,0 +1,1 @@
+print("El nombre de la cerveza es: " + "'" +input("¿Qué color te gusta más (en Inglés)?") + ' ' + input('¿Cuál es nombre de tu mascota?') +"'")
