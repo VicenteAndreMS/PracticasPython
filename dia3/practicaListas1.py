@@ -1,0 +1,1 @@
+mi_lista = ['elemento1',12,'que tal',True, 15.01]
